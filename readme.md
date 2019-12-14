@@ -1,2 +1,2 @@
-# ⦁	Diagramy UML
-    ⦁	Diagram przypadków użycia
+* Diagramy UML
+    * Diagram przypadków użycia
