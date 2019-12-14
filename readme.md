@@ -1,1 +1,2 @@
-#przykladowe readme
+# ⦁	Diagramy UML
+    ⦁	Diagram przypadków użycia
