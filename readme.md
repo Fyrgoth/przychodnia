@@ -1,3 +1,2 @@
-1. punkt 1
-    1. punkt 1.1
-2. punkt 2
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
