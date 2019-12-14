@@ -1,2 +1,5 @@
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
+1. Item1
+  1.1. SubItemA
+  1.2. SubItemB
+    - wat
+      - inception noise
