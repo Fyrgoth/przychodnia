@@ -1,2 +1,1 @@
-# ⦁	Diagramy UML
-    ⦁	Diagram przypadków użycia
+![Image of Yaktocat](imag/DiagramPrzypadkówżycia)
