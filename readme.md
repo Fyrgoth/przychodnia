@@ -1,1 +1,1 @@
-![Image of Yaktocat](imag/DiagramPrzypadkówżycia)
+![Image of Yaktocat](imag/DiagramPrzypadkówUżycia.png)
